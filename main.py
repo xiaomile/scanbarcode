@@ -3,6 +3,10 @@
 """
 This is a sample project which use SL4A UI Framework,
 There is another Sample project: https://github.com/qpython-android/qpy-calcount
+
+#中国条码查询中心
+#https://www.gds.org.cn/#/barcodeList/index?type=barcode&keyword=6901108291090 
+
 """
 import qpy
 import androidhelper
